@@ -1,0 +1,2 @@
+# ProjectOne
+Strategiai jatek
